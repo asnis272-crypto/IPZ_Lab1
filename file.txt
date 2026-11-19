@@ -1,0 +1,2 @@
+Hello, this is the first test file for Lab 1.
+Created by Snisar Andrii for IPZ Lab 1.
